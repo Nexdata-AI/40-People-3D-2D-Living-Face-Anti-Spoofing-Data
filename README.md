@@ -21,7 +21,6 @@ cellphone, camera, iPhone of multiple models (iPhone X or more advanced iPhone m
 ## Annotation content
 label the person ID, race, gender, age, scene, facial action, light condition
 ## Accuracy
-based on the accuracy of the actions, the accuracy exceeds 97%; the accuracy of label annotation is not
-
+based on the accuracy of the actions, the accuracy exceeds 97%; the accuracy of label annotation is not less than 97%
 # Licensing Information
 Commercial License
