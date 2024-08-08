@@ -2,7 +2,7 @@
 
 ## Description
 40 People – 3D&2D Living_Face & Anti_Spoofing Data. The collection scenes are indoor scenes and outdoor scenes. The dataset includes males and females, the age distribution is 18-57 years old. The device includes cellphone, camera, iPhone of multiple models (iPhone X or more advanced iPhone models). The data diversity includes multiple devices, multiple actions, multiple facial postures, multiple anti-spoofing samples, multiple light conditions, multiple scenes. This data can be used for tasks such as 2D Living_Face & Anti_Spoofing, 2D face recognition, 3D face recognition, 3D Living_Face & Anti_Spoofing.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1198?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/computervision/1198?source=Github
 
 
 # Specifications
